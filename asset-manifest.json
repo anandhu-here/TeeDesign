@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TeeDesign/static/css/main.56662f47.chunk.css",
-    "main.js": "/TeeDesign/static/js/main.8fc3716f.chunk.js",
-    "main.js.map": "/TeeDesign/static/js/main.8fc3716f.chunk.js.map",
+    "main.css": "/TeeDesign/static/css/main.78e77380.chunk.css",
+    "main.js": "/TeeDesign/static/js/main.78acbd2e.chunk.js",
+    "main.js.map": "/TeeDesign/static/js/main.78acbd2e.chunk.js.map",
     "runtime-main.js": "/TeeDesign/static/js/runtime-main.abb84ddd.js",
     "runtime-main.js.map": "/TeeDesign/static/js/runtime-main.abb84ddd.js.map",
     "static/js/2.3dc5207d.chunk.js": "/TeeDesign/static/js/2.3dc5207d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f3dbdb18.chunk.js": "/TeeDesign/static/js/3.f3dbdb18.chunk.js",
     "static/js/3.f3dbdb18.chunk.js.map": "/TeeDesign/static/js/3.f3dbdb18.chunk.js.map",
     "index.html": "/TeeDesign/index.html",
-    "static/css/main.56662f47.chunk.css.map": "/TeeDesign/static/css/main.56662f47.chunk.css.map",
+    "static/css/main.78e77380.chunk.css.map": "/TeeDesign/static/css/main.78e77380.chunk.css.map",
     "static/js/2.3dc5207d.chunk.js.LICENSE.txt": "/TeeDesign/static/js/2.3dc5207d.chunk.js.LICENSE.txt",
     "static/media/0c35c8.6cfe4ffb.jpg": "/TeeDesign/static/media/0c35c8.6cfe4ffb.jpg",
     "static/media/131414.7b01d8e2.jpg": "/TeeDesign/static/media/131414.7b01d8e2.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.abb84ddd.js",
     "static/js/2.3dc5207d.chunk.js",
-    "static/css/main.56662f47.chunk.css",
-    "static/js/main.8fc3716f.chunk.js"
+    "static/css/main.78e77380.chunk.css",
+    "static/js/main.78acbd2e.chunk.js"
   ]
 }
